@@ -1,9 +1,10 @@
-## Olá! Eu sou o Alberto Araujo! Gostaria de um café? ☕
+# Olá, eu sou o Alberto! Aceita de um café? ☕
 
 Estudante do MBA Data Science & Analytics da USP/Esalq e da Formação Cientista de Dados do Data Science Academy(DSA).
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbertoFAraujo&locale=pt-br&hide=contribs&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+📓 <b>TECNOLOGIAS EM ESTUDO<b>: 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Alberto-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
