@@ -14,6 +14,7 @@
     - Sim, eu sei identificar se um documento de identificação é falso, só de olhar ele! 🕵️;
 - Fui bolsista integral na graduação e agora também na pós, então sem gastar $$$ em estudos🤗;
 - Adoro café feito na hora ☕;
+- Aprendi a montar cubo mágico em 3 dias e hoje tenho uma coleção de diferente puzzles🧩;
 - Adoro ensinar, por isso pretendo criar conteúdo com tutoriais para auxiliar as pessoas 👨‍🏫.
 
 ## 📊 Estatísticas:
@@ -40,10 +41,7 @@
   <img align="center" alt="Alberto-postgree" height="70" width="60" src="https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg">
   <img align="center" alt="Alberto-oracle" height="90" width="80" src="https://www.logo.wine/a/logo/Oracle_Database/Oracle_Database-Logo.wine.svg">
   <img align="center" alt="Alberto-acess" height="50" width="50" src="https://www.logo.wine/a/logo/Microsoft_Access/Microsoft_Access-Logo.wine.svg"> 
-  <img align="center" alt="Alberto-mongo" height="90" width="100" src="https://www.logo.wine/a/logo/MongoDB/MongoDB-Logo.wine.svg">  
-    
-    
-    
+  <img align="center" alt="Alberto-mongo" height="90" width="100" src="https://www.logo.wine/a/logo/MongoDB/MongoDB-Logo.wine.svg">    
 </div>
     
 <br>
