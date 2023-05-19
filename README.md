@@ -28,24 +28,52 @@
 </div>
 
 ## 💻 Domínio das tecnologias:
-<div style="display: inline_block"><br>
+<b>Frameworks Python:<b>
+<div style="display: inline_block">
   <img align="center" alt="Alberto-python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Alberto-pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Alberto-numpy" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-  <img align="center" alt="Alberto-numpy" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"> 
-  <img align="center" alt="Alberto-excel" height="50" width="60" src="https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg"> 
-    
+  <img align="center" alt="Alberto-numpy" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"> 
 </div>
 
+<br>
+<b>Banco de Dados:<b>
+<div style="display: inline_block">
+  <img align="center" alt="Alberto-mysql" height="80" width="70" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg"> 
+  <img align="center" alt="Alberto-postgree" height="70" width="60" src="https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg">
+  <img align="center" alt="Alberto-oracle" height="90" width="80" src="https://www.logo.wine/a/logo/Oracle_Database/Oracle_Database-Logo.wine.svg">
+  <img align="center" alt="Alberto-acess" height="50" width="50" src="https://www.logo.wine/a/logo/Microsoft_Access/Microsoft_Access-Logo.wine.svg"> 
+  <img align="center" alt="Alberto-mongo" height="90" width="100" src="https://www.logo.wine/a/logo/MongoDB/MongoDB-Logo.wine.svg">  
+    
+    
+    
+</div>
+    
+<br>
+    
+<b>Versionamento:<b>
+<div style="display: inline_block">
+    <img align="center" alt="Alberto-numpy" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+    <img align="center" alt="Alberto-GITHUB" height="50" width="60" src="https://www.logo.wine/a/logo/GitHub/GitHub-Icon-White-Dark-Background-Logo.wine.svg"> 
+</div>
+    
+<br>
+    
+<b>Libs em R:<b>
+<div style="display: inline_block">    
+  <img align="center" alt="Alberto-excel" height="50" width="60" src="https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg">
+  <img align="center" alt="Alberto-R" height="50" width="60" src="https://www.logo.wine/a/logo/R_(programming_language)/R_(programming_language)-Logo.wine.svg">
+  <img align="center" alt="Alberto-R" height="50" width="60" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg">
+  
+  
+</div>
+    
 ## 📘 Tecnologias em estudo no momento:
 <div style="display: inline_block"><br> 
   <img align="center" alt="Alberto-tensor" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
   <img align="center" alt="Alberto-flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
   <img align="center" alt="Alberto-django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   <img align="center" alt="Alberto-pytorch" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"> 
-  <img align="center" alt="Alberto-pytorch" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">   
-    
-
+  <img align="center" alt="Alberto-GITHUB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">   
        
 </div> 
 
@@ -57,3 +85,5 @@
   <a href = "mailto:albertoferreiraaraujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+    
+    
