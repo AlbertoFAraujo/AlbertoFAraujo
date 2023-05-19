@@ -1,5 +1,3 @@
-<img alt="Alberto-cafe" height="300" width=100% src="https://github.com/AlbertoFAraujo/AlbertoFAraujo/assets/105552990/7ac5bbdd-da3e-4be2-9571-36459e55c947">
-
 # Olá, eu sou o Alberto! <img alt="Alberto-cafe" height="30" width="30" src="https://github.com/AlbertoFAraujo/AlbertoFAraujo/assets/105552990/4a6a309f-40f7-460e-aa02-b0a7e586eb64"> 
 
 👩‍💻 Engenheiro de formação, mas com vocação e paixão em tecnologia;
@@ -84,7 +82,7 @@
   <a href="https://www.linkedin.com/in/alberto-ferreira-araujo-352744b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:albertoferreiraaraujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
+<img alt="Alberto-cafe" height="300" width=100% src="https://github.com/AlbertoFAraujo/AlbertoFAraujo/assets/105552990/7ac5bbdd-da3e-4be2-9571-36459e55c947">
 
  
 
