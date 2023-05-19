@@ -54,25 +54,35 @@
     
 <br>
     
-<b>Libs em R:<b>
+<b>Análise de Dados:<b>
 <div style="display: inline_block">    
   <img align="center" alt="Alberto-excel" height="50" width="60" src="https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg">
   <img align="center" alt="Alberto-R" height="50" width="60" src="https://www.logo.wine/a/logo/R_(programming_language)/R_(programming_language)-Logo.wine.svg">
-  <img align="center" alt="Alberto-R" height="50" width="60" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg">
-  
-  
+  <img align="center" alt="Alberto-VBA" height="50" width="60" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg">
 </div>
+   
+<br>
+    
+<b>Visualização de Dados:<b>
+<div style="display: inline_block">       
+
+    
+    
+</div>
+    
     
 ## 📘 Tecnologias em estudo no momento:
 <div style="display: inline_block"><br> 
   <img align="center" alt="Alberto-tensor" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
   <img align="center" alt="Alberto-flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
   <img align="center" alt="Alberto-django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img align="center" alt="Alberto-pytorch" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
-   
-    
-     
+  <img align="center" alt="Alberto-pytorch" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">     
 </div> 
+    
+    
+    
+    
+    
 
 ## 🔗 Redes Sociais:
 
@@ -81,6 +91,7 @@
   <a href="https://www.linkedin.com/in/alberto-ferreira-araujo-352744b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:albertoferreiraaraujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+<br>
 <img alt="Alberto-cafe" height="300" width=100% src="https://github.com/AlbertoFAraujo/AlbertoFAraujo/assets/105552990/7ac5bbdd-da3e-4be2-9571-36459e55c947">
 
  
