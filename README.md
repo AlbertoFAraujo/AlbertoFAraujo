@@ -1,3 +1,5 @@
+<img alt="Alberto-cafe" height="300" width=100% src="https://github.com/AlbertoFAraujo/AlbertoFAraujo/assets/105552990/7ac5bbdd-da3e-4be2-9571-36459e55c947">
+
 # Olá, eu sou o Alberto! <img alt="Alberto-cafe" height="30" width="30" src="https://github.com/AlbertoFAraujo/AlbertoFAraujo/assets/105552990/4a6a309f-40f7-460e-aa02-b0a7e586eb64"> 
 
 👩‍💻 Engenheiro de formação, mas com vocação e paixão em tecnologia;
