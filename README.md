@@ -32,6 +32,9 @@
   <img align="center" alt="Alberto-python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Alberto-pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
   <img align="center" alt="Alberto-numpy" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"> 
+  <img align="center" alt="Alberto-selenium" height="40" width="50" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg">
+  
+    
 </div>
 <br>
     
@@ -69,10 +72,13 @@
     
 ## 📘 Tecnologias em estudo no momento:
 <div style="display: inline_block"><br> 
-  <img align="center" alt="Alberto-tensor" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
-  <img align="center" alt="Alberto-flask" height="30" width="40" src="http://panjiachen.github.io/chose-language/images/icon-flask.svg">
-  <img align="center" alt="Alberto-django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img align="center" alt="Alberto-pytorch" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">     
+  <img align="center" alt="Alberto-tensor" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" alt="Alberto-flask" height="40" width="40" src="http://panjiachen.github.io/chose-language/images/icon-flask.svg">
+  <img align="center" alt="Alberto-django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img align="center" alt="Alberto-pytorch" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
+  <img align="center" alt="Alberto-pytorch" height="40" width="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"> 
+  <img align="center" alt="Alberto-pytorch" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"> 
+
 </div> 
     
 ## 🔗 Redes Sociais:
