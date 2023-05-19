@@ -6,8 +6,6 @@
 
 🧠 Cientista de Dados em formação pela Data Science Academy(DSA);
 
-😄 Pronomes: Ele/dele
-
 👀 Curiosidade adicionais:
 - Jogador de Handebol nas horas vagas 🤾🏽;
 - Gamer (prefiro jogos antigos, porém jogo de tudo) 🎮;
