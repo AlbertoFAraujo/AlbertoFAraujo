@@ -2,7 +2,7 @@
 
 👩‍💻 Engenheiro de formação, mas com vocação e paixão em tecnologia;
 
-👨‍🎓 Aluno do MBA Data Science & Analytics da USP/Esalq;
+👨‍🎓 Aluno bolsista do MBA Data Science & Analytics da USP/Esalq;
 
 🧠 Cientista de Dados em formação pela Data Science Academy(DSA);
 
