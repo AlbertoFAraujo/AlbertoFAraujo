@@ -8,13 +8,11 @@
 
 👀 Curiosidade adicionais:
 - Jogador de Handebol nas horas vagas 🤾🏽;
-- Gamer (prefiro jogos antigos, porém jogo de tudo) 🎮;
-- Inicialmente pensei em me tornar DEV, mas conheci Data Science & Analytics após ser Coordenador de Segurança da Informação e me apaixonei 🥰;
-- Tenho amplo conhecimento em Prevenção à Fraudes (Documentoscopia, biometria, grafoscopia...). 
-    - Sim, eu sei identificar se um documento de identificação é falso, só de olhar ele! 🕵️;
-- Fui bolsista integral na graduação e agora também na pós, então sem gastar $$$ em estudos🤗;
+- Gamer (prefiro jogos antigos) 🎮;
+- Tenho amplo conhecimento em Prevenção à Fraudes (Documentoscopia, biometria, grafoscopia...)🕵️‍♂️;
+- Fui bolsista integral na graduação e participei de três iniciações científicas👨‍🏫;
 - Adoro café feito na hora ☕;
-- Aprendi a montar cubo mágico em 3 dias e hoje tenho uma coleção de diferente puzzles🧩;
+- Aprendi a montar cubo mágico em 3 dias e hoje tenho uma coleção de diferentes puzzles🧩;
 - Adoro ensinar, por isso pretendo criar conteúdo com tutoriais para auxiliar as pessoas 👨‍🏫.
 
 ## 📊 Estatísticas:
