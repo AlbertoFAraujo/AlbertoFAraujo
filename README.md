@@ -26,9 +26,14 @@
 
 ## 💻 Skills:
 <b>Tecnologias e Análise de dados:<b>
-| [<img align="center" alt="Python" height="60" width="60" src="https://api.iconify.design/logos/python.svg">](https://www.python.org/) | [<img align="center" alt="Python" height="60" width="60" src="https://api.iconify.design/logos/jupyter.svg">](https://www.python.org/) | [<img align="center" alt="Jupyter" height="60" width="60" src="https://api.iconify.design/devicon/pycharm.svg">](https://www.python.org/) | [<img align="center" alt="Pycharm" height="60" width="60" src="https://api.iconify.design/devicon/vscode.svg">](https://www.python.org/) | [<img align="center" alt="R" height="60" width="60" src="https://api.iconify.design/devicon/r.svg">](https://www.python.org/) | [<img align="center" alt="Excel" height="60" width="60" src="https://api.iconify.design/vscode-icons/file-type-excel.svg">](https://www.python.org/) | [<img align="center" alt="vba" height="60" width="60" src="https://api.iconify.design/vscode-icons/file-type-vba.svg">](https://www.python.org/) |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Python | Jupyter | Pycharm | Vscode | R | Excel | VBA |
+| [<img align="center" alt="Python" height="60" width="60" src="https://api.iconify.design/logos/python.svg">](https://www.python.org/) | [<img align="center" alt="Python" height="60" width="60" src="https://api.iconify.design/logos/jupyter.svg">](https://www.python.org/) | [<img align="center" alt="Jupyter" height="60" width="60" src="https://api.iconify.design/devicon/pycharm.svg">](https://www.python.org/) | [<img align="center" alt="Pycharm" height="60" width="60" src="https://api.iconify.design/devicon/vscode.svg">](https://www.python.org/) |
+|:---:|:---:|:---:|:---:|
+| Python | Jupyter | Pycharm | Vscode |
+
+<b>Análise de dados e frameworks:<b>
+| [<img align="center" alt="pandas" height="60" width="60" src="https://api.iconify.design/logos/pandas-icon.svg">](https://www.python.org/) | [<img align="center" alt="numpy" height="60" width="60" src="https://api.iconify.design/devicon/numpy.svg">](https://www.python.org/) | [<img align="center" alt="R" height="60" width="60" src="https://api.iconify.design/devicon/r.svg">](https://www.python.org/) | [<img align="center" alt="Excel" height="60" width="60" src="https://api.iconify.design/vscode-icons/file-type-excel.svg">](https://www.python.org/) | [<img align="center" alt="vba" height="60" width="60" src="https://api.iconify.design/vscode-icons/file-type-vba.svg">](https://www.python.org/) |
+|:---:|:---:|:---:|:---:|:---:|
+| Pandas | Numpy | R | Excel | VBA |
     
 <b>Banco de Dados:<b>
 | [<img align="center" alt="sqlserver" height="60" width="60" src="https://api.iconify.design/devicon-plain/microsoftsqlserver.svg?color=white">](https://www.python.org/) | [<img align="center" alt="sqlite" height="60" width="60" src="https://api.iconify.design/devicon/sqlite.svg">](https://www.python.org/) | [<img align="center" alt="mysql" height="60" width="60" src="https://api.iconify.design/devicon/mysql.svg">](https://www.python.org/) | [<img align="center" alt="mongodb" height="60" width="60" src="https://api.iconify.design/vscode-icons/file-type-mongo.svg">](https://www.python.org/) | [<img align="center" alt="postgres" height="60" width="60" src="https://api.iconify.design/logos/postgresql.svg">](https://www.python.org/) | [<img align="center" alt="Oracle" height="60" width="60" src="https://api.iconify.design/devicon/oracle.svg">](https://www.python.org/) | 
@@ -45,24 +50,14 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Power BI | Tableau | Seaborn | Matplotlib | Plotly | Streamlit | 
 
-
- 
-    
-## 📘 Tecnologias em estudo no momento:
-<div style="display: inline_block"><br> 
-  <img align="center" alt="Alberto-tensor" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
-  <img align="center" alt="Alberto-flask" height="40" width="40" src="http://panjiachen.github.io/chose-language/images/icon-flask.svg">
-  <img align="center" alt="Alberto-django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img align="center" alt="Alberto-pytorch" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
-  <img align="center" alt="Alberto-pytorch" height="40" width="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"> 
-  <img align="center" alt="Alberto-pytorch" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"> 
-
-</div> 
+## 📘 Tecnologias e frameworks em estudo no momento:
+| [<img align="center" alt="tensorflow" height="60" width="60" src="https://api.iconify.design/devicon/tensorflow.svg">](https://www.python.org/) | [<img align="center" alt="flask" height="60" width="60" src="https://api.iconify.design/simple-icons/flask.svg?color=white">](https://www.python.org/) | [<img align="center" alt="django" height="60" width="60" src="https://api.iconify.design/devicon-plain/django.svg?color=white">](https://www.python.org/) | [<img align="center" alt="scikitlearning" height="60" width="60" src="https://api.iconify.design/devicon/scikitlearn.svg?color=white">](https://www.python.org/) | [<img align="center" alt="machinelearning" height="60" width="60" src="https://api.iconify.design/eos-icons/machine-learning-outlined.svg?color=white">](https://www.python.org/) | 
+|:---:|:---:|:---:|:---:|:---:|
+| TensorFlow | Flask | Django | Scikit-Learn | Machine Learning |
     
 ## 🔗 Redes Sociais:
 
 <div> 
-  <a href = "https://rotinacientistadedados.blogspot.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alberto-ferreira-araujo-352744b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:albertoferreiraaraujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
