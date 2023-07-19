@@ -64,7 +64,3 @@
 <br>
 <img alt="Alberto-cafe" height="300" width=100% src="https://github.com/AlbertoFAraujo/AlbertoFAraujo/assets/105552990/7ac5bbdd-da3e-4be2-9571-36459e55c947">
 
- 
-
-    
-    
