@@ -25,7 +25,7 @@
 </div>
 
 ## 💻 Skills:
-<b>Tecnologias e Análise de dados:</b>
+<b>Tecnologias:</b>
 | [<img align="center" alt="Python" height="50" width="50" src="https://api.iconify.design/logos/python.svg">](https://www.python.org/) | [<img align="center" alt="Python" height="50" width="50" src="https://api.iconify.design/logos/jupyter.svg">](https://jupyter.org/) | [<img align="center" alt="Jupyter" height="50" width="50" src="https://api.iconify.design/devicon/pycharm.svg">](https://www.jetbrains.com/pycharm/) | [<img align="center" alt="Pycharm" height="50" width="50" src="https://api.iconify.design/devicon/vscode.svg">](https://code.visualstudio.com/) |
 |:---:|:---:|:---:|:---:|
 | Python | Jupyter | PyCharm | VS Code |
