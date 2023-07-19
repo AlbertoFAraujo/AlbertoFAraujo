@@ -24,27 +24,16 @@
   </a>
 </div>
 
-## 💻 Domínio das tecnologias:
-<b>Frameworks Python:<b>
-<div style="display: inline_block">
-  <img align="center" alt="Alberto-python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Alberto-pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Alberto-numpy" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"> 
-  <img align="center" alt="Alberto-selenium" height="40" width="50" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg">
-  
-    
-</div>
-<br>
+## 💻 Skills:
+<b>Tecnologias:<b>
+| [<img align="center" alt="Python" height="60" width="60" src="https://api.iconify.design/logos/python.svg">](https://www.python.org/) | [<img align="center" alt="Python" height="60" width="60" src="https://api.iconify.design/logos/jupyter.svg">](https://www.python.org/) | [<img align="center" alt="Jupyter" height="60" width="60" src="https://api.iconify.design/devicon/pycharm.svg">](https://www.python.org/) | [<img align="center" alt="Pycharm" height="60" width="60" src="https://api.iconify.design/devicon/vscode.svg">](https://www.python.org/) | [<img align="center" alt="R" height="60" width="60" src="https://api.iconify.design/devicon/r.svg">](https://www.python.org/) | [<img align="center" alt="Excel" height="60" width="60" src="https://api.iconify.design/vscode-icons/file-type-excel.svg">](https://www.python.org/) | [<img align="center" alt="vba" height="60" width="60" src="https://api.iconify.design/vscode-icons/file-type-vba.svg">](https://www.python.org/) |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Python | Jupyter | Pycharm | Vscode | R | Excel | VBA |
     
 <b>Banco de Dados:<b>
-<div style="display: inline_block">
-  <img align="center" alt="Alberto-mysql" height="80" width="70" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg"> 
-  <img align="center" alt="Alberto-postgree" height="70" width="60" src="https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg">
-  <img align="center" alt="Alberto-oracle" height="90" width="80" src="https://www.logo.wine/a/logo/Oracle_Database/Oracle_Database-Logo.wine.svg">
-  <img align="center" alt="Alberto-acess" height="50" width="50" src="https://www.logo.wine/a/logo/Microsoft_Access/Microsoft_Access-Logo.wine.svg"> 
-  <img align="center" alt="Alberto-mongo" height="90" width="100" src="https://www.logo.wine/a/logo/MongoDB/MongoDB-Logo.wine.svg">    
-</div>  
-<br> 
+| [<img align="center" alt="sqlserver" height="60" width="60" src="https://api.iconify.design/devicon-plain/microsoftsqlserver.svg?color=white">](https://www.python.org/) | [<img align="center" alt="sqlite" height="60" width="60" src="https://api.iconify.design/devicon/sqlite.svg">](https://www.python.org/) | [<img align="center" alt="mysql" height="60" width="60" src="https://api.iconify.design/devicon/mysql.svg">](https://www.python.org/) | [<img align="center" alt="mongodb" height="60" width="60" src="https://api.iconify.design/vscode-icons/file-type-mongo.svg">](https://www.python.org/) | [<img align="center" alt="postgres" height="60" width="60" src="https://api.iconify.design/logos/postgresql.svg">](https://www.python.org/) | [<img align="center" alt="Oracle" height="60" width="60" src="https://api.iconify.design/devicon/oracle.svg">](https://www.python.org/) | 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| SQL Server | SQLite | MySQL | MongoDB | PostGres | Oracle | 
     
 <b>Versionamento:<b>
 <div style="display: inline_block">
