@@ -25,7 +25,7 @@
 </div>
 
 ## 💻 Skills:
-<b>Tecnologias:<b>
+<b>Tecnologias e Análise de dados:<b>
 | [<img align="center" alt="Python" height="60" width="60" src="https://api.iconify.design/logos/python.svg">](https://www.python.org/) | [<img align="center" alt="Python" height="60" width="60" src="https://api.iconify.design/logos/jupyter.svg">](https://www.python.org/) | [<img align="center" alt="Jupyter" height="60" width="60" src="https://api.iconify.design/devicon/pycharm.svg">](https://www.python.org/) | [<img align="center" alt="Pycharm" height="60" width="60" src="https://api.iconify.design/devicon/vscode.svg">](https://www.python.org/) | [<img align="center" alt="R" height="60" width="60" src="https://api.iconify.design/devicon/r.svg">](https://www.python.org/) | [<img align="center" alt="Excel" height="60" width="60" src="https://api.iconify.design/vscode-icons/file-type-excel.svg">](https://www.python.org/) | [<img align="center" alt="vba" height="60" width="60" src="https://api.iconify.design/vscode-icons/file-type-vba.svg">](https://www.python.org/) |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Python | Jupyter | Pycharm | Vscode | R | Excel | VBA |
@@ -36,26 +36,17 @@
 | SQL Server | SQLite | MySQL | MongoDB | PostGres | Oracle | 
     
 <b>Versionamento:<b>
-<div style="display: inline_block">
-    <img align="center" alt="Alberto-numpy" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-    <img align="center" alt="Alberto-GITHUB" height="50" width="60" src="https://www.logo.wine/a/logo/GitHub/GitHub-Icon-White-Dark-Background-Logo.wine.svg"> 
-</div> 
-<br>  
-    
-<b>Análise de Dados:<b>
-<div style="display: inline_block">    
-  <img align="center" alt="Alberto-excel" height="50" width="50" src="https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg">
-  <img align="center" alt="Alberto-R" height="50" width="50" src="https://www.logo.wine/a/logo/R_(programming_language)/R_(programming_language)-Logo.wine.svg">
-  <img align="center" alt="Alberto-VBA" height="50" width="50" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg">
-</div>
-<br>  
-    
+ | [<img align="center" alt="git" height="60" width="60" src="https://api.iconify.design/devicon/git.svg">](https://www.python.org/) | [<img align="center" alt="github" height="60" width="60" src="https://api.iconify.design/uiw/github.svg?color=white">](https://www.python.org/) | 
+|:---:|:---:|
+| Git | Github |
+     
 <b>Visualização de Dados:<b>
-<div style="display: inline_block">  
-    <img align="center" alt="Alberto-Powerbi" height="40" width="50" src="https://github.com/AlbertoFAraujo/AlbertoFAraujo/assets/105552990/a499e93d-3b0b-4ecb-aefa-bcc4ff75a0d7">
-    <img align="center" alt="Alberto-Tableau" height="40" width="50" src="https://github.com/AlbertoFAraujo/AlbertoFAraujo/assets/105552990/cf1af1cc-f749-49ef-aa93-cdfb3c817b50">    
-</div>
-<br>  
+| [<img align="center" alt="pbi" height="60" width="60" src="https://api.iconify.design/simple-icons/powerbi.svg?color=%23ebbb25">](https://www.python.org/) | [<img align="center" alt="tableau" height="60" width="60" src="https://api.iconify.design/logos/tableau-icon.svg">](https://www.python.org/) | [<img align="center" alt="seaborn" height="60" width="60" src="https://api.iconify.design/logos/seaborn-icon.svg">](https://www.python.org/) | [<img align="center" alt="matplotlib" height="60" width="60" src="https://api.iconify.design/logos/matplotlib-icon.svg">](https://www.python.org/) | [<img align="center" alt="plotly" height="60" width="60" src="https://api.iconify.design/devicon/plotly.svg">](https://www.python.org/) | [<img align="center" alt="streamlit" height="60" width="60" src="https://api.iconify.design/devicon/streamlit.svg">](https://www.python.org/) | 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Power BI | Tableau | Seaborn | Matplotlib | Plotly | Streamlit | 
+
+
+ 
     
 ## 📘 Tecnologias em estudo no momento:
 <div style="display: inline_block"><br> 
