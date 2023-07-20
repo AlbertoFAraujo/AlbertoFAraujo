@@ -51,9 +51,9 @@
 | Power BI | Tableau | Seaborn | Matplotlib | Plotly | Streamlit |
 
 ## 📘 Tecnologias e frameworks em estudo no momento:
-| [<img align="center" alt="TensorFlow" height="50" width="50" src="https://api.iconify.design/devicon/tensorflow.svg">](https://www.tensorflow.org/) | [<img align="center" alt="Flask" height="50" width="50" src="https://api.iconify.design/simple-icons/flask.svg?color=white">](https://flask.palletsprojects.com/) | [<img align="center" alt="Django" height="50" width="50" src="https://api.iconify.design/devicon-plain/django.svg?color=white">](https://www.djangoproject.com/) | [<img align="center" alt="Scikit-Learn" height="50" width="50" src="https://api.iconify.design/devicon/scikitlearn.svg?color=white">](https://scikit-learn.org/) | [<img align="center" alt="Machine Learning" height="50" width="50" src="https://api.iconify.design/eos-icons/machine-learning-outlined.svg?color=white">](https://en.wikipedia.org/wiki/Machine_learning) |
-|:---:|:---:|:---:|:---:|:---:|
-| TensorFlow | Flask | Django | Scikit-Learn | Machine Learning |
+| [<img align="center" alt="TensorFlow" height="50" width="50" src="https://api.iconify.design/devicon/tensorflow.svg">](https://www.tensorflow.org/) | [<img align="center" alt="Flask" height="50" width="50" src="https://api.iconify.design/simple-icons/flask.svg?color=white">](https://flask.palletsprojects.com/) | [<img align="center" alt="Django" height="50" width="50" src="https://api.iconify.design/devicon-plain/django.svg?color=white">](https://www.djangoproject.com/) | [<img align="center" alt="Scikit-Learn" height="50" width="50" src="https://api.iconify.design/devicon/scikitlearn.svg?color=white">](https://scikit-learn.org/) |
+|:---:|:---:|:---:|:---:|
+| TensorFlow | Flask | Django | Scikit-Learn |
 
 ## 🔗 Redes Sociais:
 
