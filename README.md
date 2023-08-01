@@ -6,14 +6,15 @@
 
 🧠 Cientista de Dados em formação pela Data Science Academy(DSA);
 
-👀 Curiosidade adicionais:
+👀 Curiosidade:
 - Jogador de Handebol nas horas vagas 🤾🏽;
-- Gamer (prefiro jogos antigos) 🎮;
-- Tenho amplo conhecimento em Prevenção à Fraudes (Documentoscopia, biometria, grafoscopia...)🕵️‍♂️;
-- Fui bolsista integral na graduação e participei de três iniciações científicas👨‍🏫;
-- Adoro café feito na hora ☕;
-- Aprendi a montar cubo mágico em 3 dias e hoje tenho uma coleção de diferentes puzzles🧩;
-- Adoro ensinar, por isso pretendo criar conteúdo com tutoriais para auxiliar as pessoas 👨‍🏫.
+- Jogos retrô 🎮;
+- Fui bolsista na graduação de Engenharia👨‍🏫;
+- Já fui Coordenador de Operações de Prevenção a Fraudes Bancárias🕵️‍♂️;
+- Já fui Coordenador de Tecnologia em Segurança da Informação🔐;
+- Café feito na hora ☕;
+- Tenho uma coleção de cubos mágicos de diferentes formas🧩;
+- Adoro ensinar, compartilhar conhecimento, criar roteiros explicatívos👨‍🏫.
 
 ## 📊 Estatísticas:
 
