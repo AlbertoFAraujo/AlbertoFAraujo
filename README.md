@@ -36,9 +36,9 @@
 | Pandas | NumPy | R | Excel | VBA |
 
 <b>Banco de Dados:</b>
-| [<img align="center" alt="SQL Server" height="50" width="50" src="https://api.iconify.design/devicon-plain/microsoftsqlserver.svg?color=white">](https://www.microsoft.com/en-us/sql-server) | [<img align="center" alt="SQLite" height="50" width="50" src="https://api.iconify.design/devicon/sqlite.svg">](https://www.sqlite.org/index.html) | [<img align="center" alt="MySQL" height="50" width="50" src="https://api.iconify.design/devicon/mysql.svg">](https://www.mysql.com/) | [<img align="center" alt="MongoDB" height="50" width="50" src="https://api.iconify.design/vscode-icons/file-type-mongo.svg">](https://www.mongodb.com/) | [<img align="center" alt="PostGres" height="50" width="50" src="https://api.iconify.design/logos/postgresql.svg">](https://www.postgresql.org/) | [<img align="center" alt="Oracle" height="50" width="50" src="https://api.iconify.design/devicon/oracle.svg">](https://www.oracle.com/) |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| SQL Server | SQLite | MySQL | MongoDB | PostgreSQL | Oracle |
+| [<img align="center" alt="SQL Server" height="50" width="50" src="https://api.iconify.design/devicon-plain/microsoftsqlserver.svg?color=white">](https://www.microsoft.com/en-us/sql-server) | [<img align="center" alt="SQLite" height="50" width="50" src="https://api.iconify.design/devicon/sqlite.svg">](https://www.sqlite.org/index.html) 
+|:---:|:---:|
+| SQL Server | SQLite |
 
 <b>Versionamento:</b>
  | [<img align="center" alt="Git" height="50" width="50" src="https://api.iconify.design/devicon/git.svg">](https://git-scm.com/) | [<img align="center" alt="GitHub" height="50" width="50" src="https://api.iconify.design/uiw/github.svg?color=white">](https://github.com/) | 
@@ -51,9 +51,9 @@
 | Power BI | Tableau | Seaborn | Matplotlib | Plotly | Streamlit |
 
 ## 📘 Tecnologias e frameworks em estudo no momento:
-| [<img align="center" alt="TensorFlow" height="50" width="50" src="https://api.iconify.design/devicon/tensorflow.svg">](https://www.tensorflow.org/) | [<img align="center" alt="Flask" height="50" width="50" src="https://api.iconify.design/simple-icons/flask.svg?color=white">](https://flask.palletsprojects.com/) | [<img align="center" alt="Django" height="50" width="50" src="https://api.iconify.design/devicon-plain/django.svg?color=white">](https://www.djangoproject.com/) | [<img align="center" alt="Scikit-Learn" height="50" width="50" src="https://api.iconify.design/devicon/scikitlearn.svg?color=white">](https://scikit-learn.org/) |
-|:---:|:---:|:---:|:---:|
-| TensorFlow | Flask | Django | Scikit-Learn |
+| [<img align="center" alt="TensorFlow" height="50" width="50" src="https://api.iconify.design/devicon/tensorflow.svg">](https://www.tensorflow.org/) | [<img align="center" alt="Flask" height="50" width="50" src="https://api.iconify.design/simple-icons/flask.svg?color=white">](https://flask.palletsprojects.com/) | [<img align="center" alt="Django" height="50" width="50" src="https://api.iconify.design/devicon-plain/django.svg?color=white">](https://www.djangoproject.com/) | [<img align="center" alt="Scikit-Learn" height="50" width="50" src="https://api.iconify.design/devicon/scikitlearn.svg?color=white">](https://scikit-learn.org/) | [<img align="center" alt="MySQL" height="50" width="50" src="https://api.iconify.design/devicon/mysql.svg">](https://www.mysql.com/) | [<img align="center" alt="MongoDB" height="50" width="50" src="https://api.iconify.design/vscode-icons/file-type-mongo.svg">](https://www.mongodb.com/) | [<img align="center" alt="PostGres" height="50" width="50" src="https://api.iconify.design/logos/postgresql.svg">](https://www.postgresql.org/) | [<img align="center" alt="Oracle" height="50" width="50" src="https://api.iconify.design/devicon/oracle.svg">](https://www.oracle.com/) |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| TensorFlow | Flask | Django | Scikit-Learn | MySQL | MongoDB | PostgreSQL | Oracle |
 
 ## 🔗 Redes Sociais:
 
