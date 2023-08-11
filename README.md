@@ -14,7 +14,7 @@
 - Já fui Coordenador de Tecnologia em Segurança da Informação🔐;
 - Café feito na hora ☕;
 - Tenho uma coleção de cubos mágicos de diferentes formas🧩;
-- Adoro ensinar, compartilhar conhecimento, criar roteiros explicatívos👨‍🏫.
+- Adoro ensinar, compartilhar conhecimento, criar roteiros explicativos👨‍🏫.
 
 ## 📊 Estatísticas:
 
