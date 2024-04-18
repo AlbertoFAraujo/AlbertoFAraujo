@@ -9,12 +9,10 @@
 👀 Curiosidade:
 - Jogador de Handebol nas horas vagas 🤾🏽;
 - Jogos retrô 🎮;
-- Fui bolsista na graduação de Engenharia👨‍🏫;
-- Já fui Coordenador de Operações de Prevenção a Fraudes Bancárias🕵️‍♂️;
-- Já fui Coordenador de Tecnologia em Segurança da Informação🔐;
-- Café feito na hora ☕;
-- Tenho uma coleção de cubos mágicos de diferentes formas🧩;
-- Adoro ensinar, compartilhar conhecimento, criar roteiros explicativos👨‍🏫.
+- Experiência em Coordenação de Operações de Prevenção a Fraudes Bancárias🕵️‍♂️;
+- Experiência em Coordenação de Tecnologia em Segurança da Informação🔐;
+- Tenho uma coleção de cubos mágicos e puzzles🧩;
+- Vocação para ensinar, compartilhar conhecimento, criar roteiros explicativos👨‍🏫.
 
 ## 📊 Estatísticas:
 
