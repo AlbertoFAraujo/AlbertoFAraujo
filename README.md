@@ -24,35 +24,37 @@
 </div>
 
 ## 💻 Skills:
-<b>Tecnologias:</b>
-| [<img align="center" alt="Python" height="50" width="50" src="https://api.iconify.design/logos/python.svg">](https://www.python.org/) | [<img align="center" alt="Python" height="50" width="50" src="https://api.iconify.design/logos/jupyter.svg">](https://jupyter.org/) | [<img align="center" alt="Jupyter" height="50" width="50" src="https://api.iconify.design/devicon/pycharm.svg">](https://www.jetbrains.com/pycharm/) | [<img align="center" alt="Pycharm" height="50" width="50" src="https://api.iconify.design/devicon/vscode.svg">](https://code.visualstudio.com/) |
-|:---:|:---:|:---:|:---:|
-| Python | Jupyter | PyCharm | VS Code |
+<b>Tratamento de dados e manipulações:</b>
 
-<b>Análise de dados e frameworks:</b>
-| [<img align="center" alt="Pandas" height="50" width="50" src="https://api.iconify.design/logos/pandas-icon.svg">](https://pandas.pydata.org/) | [<img align="center" alt="NumPy" height="50" width="50" src="https://api.iconify.design/devicon/numpy.svg">](https://numpy.org/) | [<img align="center" alt="R" height="50" width="50" src="https://api.iconify.design/devicon/r.svg">](https://www.r-project.org/) | [<img align="center" alt="Excel" height="50" width="50" src="https://api.iconify.design/vscode-icons/file-type-excel.svg">](https://www.microsoft.com/en-us/microsoft-365/excel) | [<img align="center" alt="VBA" height="50" width="50" src="https://api.iconify.design/vscode-icons/file-type-vba.svg">](https://docs.microsoft.com/en-us/office/vba/) |
-|:---:|:---:|:---:|:---:|:---:|
-| Pandas | NumPy | R | Excel | VBA |
+![image](https://github.com/AlbertoFAraujo/AlbertoFAraujo/assets/105552990/38726b23-99ff-4d10-9e45-9e4e44e3c080)
 
-<b>Banco de Dados:</b>
-| [<img align="center" alt="SQL Server" height="50" width="50" src="https://api.iconify.design/devicon-plain/microsoftsqlserver.svg?color=white">](https://www.microsoft.com/en-us/sql-server) | [<img align="center" alt="SQLite" height="50" width="50" src="https://api.iconify.design/devicon/sqlite.svg">](https://www.sqlite.org/index.html) 
-|:---:|:---:|
-| SQL Server | SQLite |
+<b>Visualização de Dados e Dashboards:</b>
+
+![image](https://github.com/AlbertoFAraujo/AlbertoFAraujo/assets/105552990/95ae558b-3400-4e97-bc00-f4405359faa2)
+
+
+<b>IDE:</b>
+
+![image](https://github.com/AlbertoFAraujo/AlbertoFAraujo/assets/105552990/5e089756-2331-4920-81ca-ae44c10566bd)
+
+
+<b>Designer:</b>
+
+![image](https://github.com/AlbertoFAraujo/AlbertoFAraujo/assets/105552990/74fd4130-ea2f-41f2-b200-3d58a71f516d)
+
+<b>Banco de dados:</b>
+
+![image](https://github.com/AlbertoFAraujo/AlbertoFAraujo/assets/105552990/cf3d24b4-117b-48e7-9cb8-628a33702d73)
 
 <b>Versionamento:</b>
- | [<img align="center" alt="Git" height="50" width="50" src="https://api.iconify.design/devicon/git.svg">](https://git-scm.com/) | [<img align="center" alt="GitHub" height="50" width="50" src="https://api.iconify.design/uiw/github.svg?color=white">](https://github.com/) | 
-|:---:|:---:|
-| Git | GitHub |
 
-<b>Visualização de Dados:</b>
-| [<img align="center" alt="Power BI" height="50" width="50" src="https://api.iconify.design/simple-icons/powerbi.svg?color=%23ebbb25">](https://powerbi.microsoft.com/) | [<img align="center" alt="Tableau" height="50" width="50" src="https://api.iconify.design/logos/tableau-icon.svg">](https://www.tableau.com/) | [<img align="center" alt="Seaborn" height="50" width="50" src="https://api.iconify.design/logos/seaborn-icon.svg">](https://seaborn.pydata.org/) | [<img align="center" alt="Matplotlib" height="50" width="50" src="https://api.iconify.design/logos/matplotlib-icon.svg">](https://matplotlib.org/) | [<img align="center" alt="Plotly" height="50" width="50" src="https://api.iconify.design/devicon/plotly.svg">](https://plotly.com/python/) | [<img align="center" alt="Streamlit" height="50" width="50" src="https://api.iconify.design/devicon/streamlit.svg">](https://www.streamlit.io/) |  [<img align="center" alt="Looker" height="50" width="50" src="https://api.iconify.design/logos/looker-icon.svg">](https://lookerstudio.google.com/) |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Power BI | Tableau | Seaborn | Matplotlib | Plotly | Streamlit | Looker Studio
+![image](https://github.com/AlbertoFAraujo/AlbertoFAraujo/assets/105552990/4b3f05b4-fcc8-4e2c-b405-a9329a72db8f)
+
 
 ## 📘 Tecnologias e frameworks em estudo no momento:
-| [<img align="center" alt="TensorFlow" height="50" width="50" src="https://api.iconify.design/devicon/tensorflow.svg">](https://www.tensorflow.org/) | [<img align="center" alt="Flask" height="50" width="50" src="https://api.iconify.design/simple-icons/flask.svg?color=white">](https://flask.palletsprojects.com/) | [<img align="center" alt="Django" height="50" width="50" src="https://api.iconify.design/devicon-plain/django.svg?color=white">](https://www.djangoproject.com/) | [<img align="center" alt="Scikit-Learn" height="50" width="50" src="https://api.iconify.design/devicon/scikitlearn.svg?color=white">](https://scikit-learn.org/) | [<img align="center" alt="MySQL" height="50" width="50" src="https://api.iconify.design/devicon/mysql.svg">](https://www.mysql.com/) | [<img align="center" alt="MongoDB" height="50" width="50" src="https://api.iconify.design/vscode-icons/file-type-mongo.svg">](https://www.mongodb.com/) | [<img align="center" alt="PostGres" height="50" width="50" src="https://api.iconify.design/logos/postgresql.svg">](https://www.postgresql.org/) | [<img align="center" alt="Oracle" height="50" width="50" src="https://api.iconify.design/devicon/oracle.svg">](https://www.oracle.com/) |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| TensorFlow | Flask | Django | Scikit-Learn | MySQL | MongoDB | PostgreSQL | Oracle |
+
+![image](https://github.com/AlbertoFAraujo/AlbertoFAraujo/assets/105552990/c3f0817f-be4c-4c09-bb13-3277e6eef905)
+
 
 ## 🔗 Redes Sociais:
 
