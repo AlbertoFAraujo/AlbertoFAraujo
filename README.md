@@ -1,4 +1,4 @@
-# Olá, eu sou o Alberto! <img alt="Alberto-cafe" height="30" width="30" src="https://github.com/AlbertoFAraujo/AlbertoFAraujo/assets/105552990/4a6a309f-40f7-460e-aa02-b0a7e586eb64"> 
+# Oi, eu sou o Alberto! <img alt="Alberto-cafe" height="30" width="30" src="https://github.com/AlbertoFAraujo/AlbertoFAraujo/assets/105552990/4a6a309f-40f7-460e-aa02-b0a7e586eb64"> 
 
 👩‍💻 Engenheiro de formação, mas com vocação e paixão em tecnologia;
 
@@ -7,12 +7,11 @@
 🧠 Cientista de Dados em formação pela Data Science Academy(DSA);
 
 👀 Curiosidade:
-- Jogador de Handebol nas horas vagas 🤾🏽;
-- Jogos retrô 🎮;
-- Experiência em Coordenação de Operações de Prevenção a Fraudes Bancárias🕵️‍♂️;
-- Experiência em Coordenação de Tecnologia em Segurança da Informação🔐;
+- Jogador de Handebol nas horas vagas;🤾🏽
+- Experiência em Prevenção a Fraudes Bancárias, Segurança da Informação e Análise de dados;🕵️‍♂️
+- Prefiro jogos retrô, nada melhor que consoles antigos haha;🎮
 - Tenho uma coleção de cubos mágicos e puzzles🧩;
-- Vocação para ensinar, compartilhar conhecimento, criar roteiros explicativos👨‍🏫.
+- Vocação para ensinar e compartilhar conhecimento👨‍🏫.
 
 ## 📊 Estatísticas:
 
