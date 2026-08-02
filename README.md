@@ -7,7 +7,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou Engenheiro de formação, pós-graduado em **Data Science & Analytics pela USP/ESALQ** e atualmente em formação como **Cientista de Dados pela Hashtagh Treinamentos**.
+Sou Engenheiro de formação e pós-graduado em **Data Science & Analytics pela USP/ESALQ**.
 
 Meu foco é desenvolver soluções completas de **Business Intelligence**, transformando dados em dashboards modernos no **Power BI**, automações inteligentes e indicadores acessíveis em qualquer lugar.
 
